@@ -1,0 +1,20 @@
+{
+  "name": "generator-sharepoint",
+  "version": "0.0.2",
+  "description": "Yeoman Generator for SharePoint Projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewconnell/generator-sharepoint.git"
+  },
+  "author": {
+   "name": "Andrew Connell",
+   "email": "me@andrewconnell",
+   "url": "http://www.andrewconnell.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewconnell/generator-sharepoint/issues"
+  },
+  "homepage": "https://github.com/andrewconnell/generator-sharepoint#readme"
+}
