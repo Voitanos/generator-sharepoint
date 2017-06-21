@@ -8,13 +8,20 @@
     "url": "git+https://github.com/andrewconnell/generator-sharepoint.git"
   },
   "author": {
-   "name": "Andrew Connell",
-   "email": "me@andrewconnell",
-   "url": "http://www.andrewconnell.com"
+    "name": "Andrew Connell",
+    "email": "me@andrewconnell",
+    "url": "http://www.andrewconnell.com"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/andrewconnell/generator-sharepoint/issues"
   },
-  "homepage": "https://github.com/andrewconnell/generator-sharepoint#readme"
+  "homepage": "https://github.com/andrewconnell/generator-sharepoint#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  },
+  "peerDependencies": {
+    "@microsoft/generator-sharepoint": ">=1.1.1",
+    "yo": ">=1.0.0"
+  }
 }
