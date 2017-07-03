@@ -1,0 +1,6 @@
+{
+  "defaults": {
+    "skip-install": true,
+    "packageManager": "yarn"
+  }
+}
